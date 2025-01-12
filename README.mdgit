@@ -1,0 +1,1 @@
+"# test3"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/carnato/test3.gitgit push -u origin main
