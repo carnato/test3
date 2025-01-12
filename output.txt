@@ -1,0 +1,3 @@
+500 deposited successful.
+200 withdraw successful.
+Current balance: 1300
