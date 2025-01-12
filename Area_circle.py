@@ -1,5 +1,13 @@
-#function to calclate the area of circle
-def area_circle(radius):
-    return 3.14*radius*radius
-area=area_circle(4)
-print("Area of circle :", area)
+class Area:
+    def circle(self,radius):
+        return 3.14*radius*radius
+    
+    def square(self, length):
+        return length*length
+    def rectangle(self, length,breath):
+        return length*breath
+
+obj=Area()
+print(obj.circle(5))    
+print(obj.square(4))
+print(obj.rectangle(2,5))
