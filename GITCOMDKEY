@@ -1,0 +1,18 @@
+git remote add origin https://github.com/carnoto/Python.git
+
+
+personal access token
+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
+
+
+
+  git config --global user.email "carnotojeeyada420.com"
+  git config --global user.name "carnato"
+
+
+
+
+if you edit the code then push the code 
+git add . or git add <file_name>
+Commit the chnages: git commit -m "Commit message"
+Push the changes git push origin main
